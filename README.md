@@ -24,7 +24,7 @@
 
 # GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=webn-exoras&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=web-nexoras&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=web-nexoras&theme=blue_navy&hide_border=true)<br/>
 
