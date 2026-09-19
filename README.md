@@ -1,18 +1,40 @@
-#  Welcome to my GitHub account! ✨  
+# Hi, I'm a MERN Stack Developer 👋
 
- - MERN Stack Developer | React · Node.js · MongoDB  🙌
+**Full Stack Developer | React · Next.js · Node.js · MongoDB**
+
+I build modern, scalable web applications and backend systems with a strong focus on **clean architecture, performance, maintainability, and real-world problem solving**.
+
+### 🛠️ Tech Stack
+
+- **Frontend:** React, Next.js, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Mongoose
+- **Caching & Data:** Redis
+- **Tools & Practices:** Git, GitHub, Docker, Authentication, API Design
+
+### 🚀 Currently
+
+- 🌱 Deepening my knowledge of **Backend Architecture & System Design**
+- 🔨 Building and improving **full-stack applications and REST APIs**
+- 🧠 Focused on writing **clean, maintainable, and production-ready code**
+
+### 🔭 Interests & Future Focus
+
+- 🔐 **Interested in Cyber Security** and planning to explore the field in the future
+- 🤖 **Interested in AI/ML** and looking forward to exploring these technologies as I grow
 
 
-- 🌱 Exploring *React, Next.js, and Node.js*  
-- 🎯 Goal: Become a *Professional Full Stack Developer & Freelancer*
-- 🚀 Dream: To build impactful products & inspire the dev community
-- 🧠 Turning ideas into interactive web solutions
-- 💡 Passionate about *Cyber Security & AI/ML*  
+### 🎯 Goal
+
+- To build **reliable and scalable software**, contribute to meaningful projects, and grow as a professional **Full Stack Developer & Freelancer**.
+- Beyond technical growth, I aspire to become a **strong Team Leader**. I genuinely enjoy **leading, supporting, and collaborating with others**, and I want to help create a team environment where everyone can learn, grow, and achieve goals together.
+
 
 
 
 
 ## Socials:
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/webnexora)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/web_nexoras)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/web-nexoras-3b7779369/)   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webnexoras.bd@gmail.com)
 
