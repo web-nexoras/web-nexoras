@@ -32,7 +32,6 @@ I build modern, scalable web applications and backend systems with a strong focu
 
 
 
-
 ## Socials:
 
 
@@ -60,7 +59,6 @@ I build modern, scalable web applications and backend systems with a strong focu
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 
 
 
